@@ -128,7 +128,7 @@ ul{
     height: 45px;
 }
 .features-section{
-    background-image: url(/Assets/Capture.png);
+    background-image: url(Assets/Capture.png);
     background-repeat: no-repeat;
     background-position: center;
     margin-top: 130px;  
